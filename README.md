@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrederikWynants
 - 👀 I’m interested in Python coding at a beginner level
-- 🌱 I’m currently learning the basics of Python to acdes online data concerning water, wastewater, ... waterinfo.be, VMM resources, ...
+- 🌱 I’m currently learning the basics of Python to acces online data concerning water, wastewater, ... waterinfo.be, VMM resources, ...
 - 📫 How to reach me ... -> trough personal notification
 - 😄 Pronouns: Frederik
 
